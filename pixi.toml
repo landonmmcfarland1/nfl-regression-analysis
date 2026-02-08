@@ -1,0 +1,16 @@
+[workspace]
+authors = ["landonmmcfarland1 <landon.m.mcfarland@gmail.com>"]
+channels = ["conda-forge"]
+name = "nfl-regression-analysis"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.14.*"
+marimo = ">=0.19.8,<0.20"
+polars = ">=1.38.1,<2"
+duckdb = ">=1.4.4,<2"
+sqlglot = ">=28.10.0,<29"
+pyarrow = ">=23.0.0,<24"

@@ -1,0 +1,33 @@
+# Pixi environment and cache
+.pixi/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Marimo sessions and cache
+.marimo/
+__marimo__/
+
+# R files (if any)
+.Rhistory
+.RData
+.Rproj.user
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# Output directory (optional - remove this line if you want to include the generated CSV)
+final_dataframe/
