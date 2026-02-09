@@ -401,7 +401,7 @@ This project is available for educational purposes. Dataset is provided by Kaggl
 ## Acknowledgments
 
 - **Dataset**: Sujay Kapadnis for compiling and sharing NFL data on Kaggle
-- **Course**: ST541 instructors for regression modeling foundation
+- **Course**: Dr. Yaofang Hu for answering all my nonsense questions throughout this project :)
 - **Tools**: Marimo, Polars, and R development communities
 
 ---
